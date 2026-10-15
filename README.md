@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Neel+%F0%9F%91%8B;Backend+Developer;Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Learning+DSA+and+AI+Engineering" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Neel+%F0%9F%91%8B;Backend+Developer;Learning+AI+Integration,+RAG+and+Agentic+AI;Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL" alt="Typing animation" />
 </p>
 
-Backend developer building projects with Node.js and FastAPI, and moving towards AI engineering.
+Backend developer building projects with Node.js and FastAPI, now learning AI integration and moving towards AI engineering.
 
 ## About Me
 
 - 📍 Based in Hyderabad (originally from Jamshedpur)
 - 🎓 BCA graduate, pursuing MCA
 - 💻 Backend developer: Node.js, Express, MongoDB, FastAPI, PostgreSQL
-- 🌱 Currently learning: DSA (daily LeetCode), React, LLM API integration, RAG
+- 🌱 Currently learning: DSA (daily LeetCode), React, LLM API integration, RAG, Agentic AI
 - 🎯 Goal: Backend developer → AI engineer → product founder
 
 ## Tech Stack
@@ -38,6 +38,7 @@ Backend developer building projects with Node.js and FastAPI, and moving towards
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/neel-kamal123)
 - 🧩 [LeetCode](https://leetcode.com/u/_Neel__/)
+
 <!--
 **neelkamall/neelkamall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
