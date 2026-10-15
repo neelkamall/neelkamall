@@ -8,9 +8,9 @@ Backend developer building projects with Node.js and FastAPI, now learning AI in
 
 - 📍 Based in Hyderabad (originally from Jamshedpur)
 - 🎓 BCA graduate, pursuing MCA
-- 💻 Backend developer: Node.js, Express, MongoDB, FastAPI, PostgreSQL
+- 💻 Backend developer: FastAPI, PostgreSQL, Node.js, Express, MongoDB
 - 🌱 Currently learning: DSA (daily LeetCode), React, LLM API integration, RAG, Agentic AI
-- 🎯 Goal: Backend developer → AI engineer → product founder
+- 🎯 Goal: Backend developer → AI engineer
 
 ## Tech Stack
 
