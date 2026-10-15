@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Neel+%F0%9F%91%8B;Backend+Developer;Learning+AI+Integration,+RAG+and+Agentic+AI;Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Neel+%F0%9F%91%8B;Backend+Developer+with+AI+Integration;Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Learning+RAG+and+Agentic+AI" alt="Typing animation" />
 </p>
 
-Backend developer building projects with Node.js and FastAPI, now learning AI integration and moving towards AI engineering.
+Backend developer building projects with Node.js and FastAPI, with hands-on LLM API integration, now learning RAG and Agentic AI.
 
 ## About Me
 
 - 📍 Based in Hyderabad (originally from Jamshedpur)
 - 🎓 BCA graduate, pursuing MCA
 - 💻 Backend developer: FastAPI, PostgreSQL, Node.js, Express, MongoDB
-- 🌱 Currently learning: DSA (daily LeetCode), LLM API integration, RAG, Agentic AI
+- 🤖 AI integration: LLM API integration in [Beast](https://github.com/neelkamall/Beast)
+- 🌱 Currently learning: DSA (daily LeetCode), RAG, Agentic AI
 - 🎯 Goal: Backend developer → AI engineer
 
 ## Tech Stack
@@ -27,7 +28,7 @@ Backend developer building projects with Node.js and FastAPI, now learning AI in
 
 | Project | Kya hai | Stack |
 |---|---|---|
-| [Beast](https://github.com/neelkamall/Beast) | Social media backend: users, posts, comments, likes, JWT auth (access + refresh token) | FastAPI, PostgreSQL, Python |
+| [Beast](https://github.com/neelkamall/Beast) | Social media backend: users, posts, comments, likes, JWT auth (access + refresh token), AI integration | FastAPI, PostgreSQL, Python, LLM API |
 | [Blogger](https://github.com/neelkamall/Blogger) | Blogging site backend | Node.js, Express, MongoDB |
 | [ViewVault](https://github.com/neelkamall/ViewVault) | Social media backend | Node.js, MongoDB |
 | [NoteVault](https://github.com/neelkamall/NoteVault) | Notes backend | Node.js, MongoDB |
