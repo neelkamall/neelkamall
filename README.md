@@ -61,28 +61,14 @@
 
 ---
 
-## 🏆 Problem Solving
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://leetcode.com/u/_Neel__/">
-    <img src="https://leetcard.jacoblin.cool/_Neel__?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/neel-kamal123"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/neelkamall"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/_Neel__/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=neelkamall&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🔗 Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/neel-kamal123)
-- 🧩 [LeetCode](https://leetcode.com/u/_Neel__/)
 
 <!--
 **neelkamall/neelkamall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
