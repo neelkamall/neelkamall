@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 📍 Based in Hyderabad 
-- 🎓 BCA graduate, pursuing MCA
+- 🎓 BCA graduate
 - 💻 Backend developer: FastAPI, PostgreSQL, Node.js, Express, MongoDB
 - 🤖 AI integration: LLM API integration in [Beast](https://github.com/neelkamall/Beast)
 - 🌱 Currently learning: DSA (daily LeetCode), RAG, Agentic AI
