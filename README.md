@@ -51,7 +51,7 @@
 
 ## 📂 Projects
 
-| Project | Kya hai | Stack |
+| Project | About | Stack |
 |---|---|---|
 | [Beast](https://github.com/neelkamall/Beast) | Social media backend: users, posts, comments, likes, JWT auth (access + refresh token), AI integration | FastAPI, PostgreSQL, Python, LLM API |
 | [Blogger](https://github.com/neelkamall/Blogger) | Blogging site backend | Node.js, Express, MongoDB |
