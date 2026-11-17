@@ -61,34 +61,9 @@
 
 ---
 
-## 📊 Stats
-
-<p align="center"><b>GitHub</b></p>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=neelkamall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelkamall&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=neelkamall&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center"><b>LeetCode</b></p>
-<p align="center">
-  <a href="https://leetcode.com/u/_Neel___/">
-    <img src="https://leetcard.jacoblin.cool/_Neel___?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect with Me
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=neelkamal3767@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/neel-kamal123"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/neelkamall"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/_Neel___/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
 
 <!--
 **neelkamall/neelkamall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
