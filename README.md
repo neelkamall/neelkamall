@@ -83,6 +83,12 @@
 
 ---
 
+## 🎓 Certifications
+
+- [IBM Machine Learning](https://www.coursera.org/account/accomplishments/verify/YOUR_CERT_ID) (Coursera)
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
