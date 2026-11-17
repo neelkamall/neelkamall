@@ -49,6 +49,12 @@
 
 ---
 
+## 🎓 Certifications
+
+- [IBM Machine Learning Professional Certificate](https://coursera.org/verify/professional-cert/64TU1FKMA32T) (Coursera, Nov 2024)
+
+---
+
 ## 📂 Projects
 
 | Project | About | Stack |
@@ -80,12 +86,6 @@
     <img src="https://leetcard.jacoblin.cool/_Neel___?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
-
----
-
-## 🎓 Certifications
-
-- [IBM Machine Learning](https://www.coursera.org/account/accomplishments/verify/YOUR_CERT_ID) (Coursera)
 
 ---
 
