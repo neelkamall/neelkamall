@@ -61,6 +61,26 @@
 
 ---
 
+## 📊 Stats
+
+<p align="center"><b>GitHub</b></p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=neelkamall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelkamall&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=neelkamall&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center"><b>LeetCode</b></p>
+<p align="center">
+  <a href="https://leetcode.com/u/_Neel___/">
+    <img src="https://leetcard.jacoblin.cool/_Neel___?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
