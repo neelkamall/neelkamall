@@ -64,6 +64,33 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=neelkamall&theme=tokyonight&hide_border=true&border_radius=6" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neelkamall&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bfc9ee&area=false&hide_border=true&custom_title=Neel%20Kamal%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%" />
+</p>
+
+---
+
+<h2 align="center">🧩 LeetCode Stats</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/_Neel___/">
+    <img src="https://leetcard.jacoblin.cool/_Neel___?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=neelkamal3767@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/neel-kamal123"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/neelkamall"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/_Neel___/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
 
 <!--
 **neelkamall/neelkamall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
